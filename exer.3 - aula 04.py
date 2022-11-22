@@ -1,0 +1,5 @@
+print('------DESAFIO 03--------')
+n1 = input('Digite um valor:')
+n2 = input('digite o outro valor:')
+print('A soma entre', n1, 'e', n2, 'é de:')
+print(n1 + n2)
